@@ -1,0 +1,22 @@
+{
+  "name": "pod_test",
+  "version": "0.1.0",
+  "summary": "A short description of pod_test.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wwh12345678/pod_test",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wwh12345678": "1946126660@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/wwh12345678/pod_test.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "pod_test/Classes/**/*"
+}
